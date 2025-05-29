@@ -1,0 +1,9 @@
+{
+  "profile": {
+    "firstName": "Ammar",
+    "lastName": "Hussien",
+    "email": "test@test.com",
+    "password":"Abc_12345#",
+    "confirmPassword":"Abc_12345#"
+  }
+}
